@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Build",
+    "\\Libraries",
+    "\\packages",
+    "\\Presentation",
+    "\\Presentation\\Nop.Web",
+    "\\Presentation\\Nop.Web\\Controllers"
+  ],
+  "SelectedNode": "\\Presentation\\Nop.Web\\Controllers\\BasePublicController.cs",
+  "PreviewInSolutionExplorer": false
+}
